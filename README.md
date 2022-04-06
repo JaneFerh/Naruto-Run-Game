@@ -20,4 +20,4 @@ En jeu:
 - La vitesse de votre personnage est gérée automatiquement à partir de sa proximité par rapport à la piste. Ainsi, plus votre personnage est éloigné de la piste, plus celui-ci perdra progressivement de la vitesse. Si sa vitesse atteint zéro, la partie est terminée.
 - Vous disposez d'un temps imparti pour atteindre des points de contrôle (représentés par le personnage de *Kakashi*) qui vous permettront de vous ajouter du temps. Si le temps imparti atteint zéro, la partie est terminée.
 - Des obstacles se présenteront sur votre route (représentés par des shurikens, des kunais, ...). À chaque obstacles heurtés, la vitesse de votre personnage diminuera.
-- *But du jeu*: avoir le score le plus élevé en fin de partie.
+- But du jeu: avoir le score le plus élevé en fin de partie.
