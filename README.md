@@ -5,7 +5,7 @@ Jeu vidéo de type *course de voiture* (inspiré des années 80) dans l'univers 
 #### Description:
 
 Afin d'entamer un nouvel entraînement pour Naruto, Kakashi a décidé de tout d'abord tester ses aptitudes. Pour cela, il a mis en place un parcours rempli d'obstacles sur lequel Naruto devra tenir le plus longtemps possible.
-Aidez Naruto à exquiver le plus d'obstacles possibles et à rattraper Kakashi dans le temps imparti.
+Aidez Naruto à esquiver le plus d'obstacles possibles et à rattraper Kakashi dans le temps imparti.
 
 #### Prérequis:
 
