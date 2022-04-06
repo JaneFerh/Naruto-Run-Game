@@ -1,6 +1,6 @@
 # Naruto-Run-Game
 
-*Programmation concurrente et interfaces interactives - L3 Informatique parcours MIAGE*
+*Programmation concurrente et interfaces interactives (PCII) - L3 Informatique parcours MIAGE*
 
     Responsable enseignant: Nicolas Sabouret
     Equipe: Janethe Ferhoune, Hawa Ina Ouro Diallo
