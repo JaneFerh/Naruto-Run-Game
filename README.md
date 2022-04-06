@@ -1,6 +1,6 @@
 # Naruto-Run-Game
 
-Jeu vidéo de type *course de voiture* (inspiré des années 80) dans l'univers de "*Naruto Shippuden*".
+Jeu vidéo de type *course de voiture* (inspiré des années 80) dans l'univers de *Naruto Shippuden*.
 
 #### Description:
 
@@ -13,7 +13,7 @@ Java avec un IDE
 
 #### Mode d'emploi:
 
-Importez le projet dans votre IDE, sélectionnez la classe Main à la racine du projet puis "*Run as Java Application*".
+Importez le projet dans votre IDE, sélectionnez la classe Main à la racine du projet puis *Run as Java Application*.
 
 En jeu:
 - Déplacez votre personnage à l'aide des touches directionnelles gauche et droite.
