@@ -1,8 +1,8 @@
 # Naruto-Run-Game
 
+> *Professeur: Nicolas Sabouret*
+
 *Programmation concurrente et interfaces interactives - L3 Informatique parcours MIAGE*
-  
-  >> *Professeur: Nicolas Sabouret*
 
 Jeu vidéo de type *course de voiture* (inspiré des années 80) dans l'univers de *Naruto Shippuden*.
 
