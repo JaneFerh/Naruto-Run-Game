@@ -1,5 +1,7 @@
 # Naruto-Run-Game
 
+*Programmation concurrente et interfaces interactives - L3 Informatique parcours MIAGE*
+
 Jeu vidéo de type *course de voiture* (inspiré des années 80) dans l'univers de *Naruto Shippuden*.
 
 #### Description:
