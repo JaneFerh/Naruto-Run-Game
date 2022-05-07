@@ -2,9 +2,6 @@
 
 *Programmation concurrente et interfaces interactives (PCII) - L3 Informatique parcours MIAGE*
 
-    Responsable enseignant: Nicolas Sabouret
-    Equipe: Hawa Ina Ouro Diallo, Janethe Ferhoune
-
 Jeu vidéo de type *course de voiture* (inspiré des années 80) dans l'univers de *Naruto Shippuden*.
 
 #### Description:
